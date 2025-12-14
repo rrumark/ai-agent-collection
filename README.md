@@ -1,4 +1,4 @@
-# LLM Agent Collection 
+# AI Agent Collection 
 
 - AI-powered agents capable of performing various tasks through natural language commands.
 - Developed using the `phidata` and `groq` libraries.
